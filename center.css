@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+footer,
+p,
+span,
+small {
+  text-align: center;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+nav { justify-content: space-evenly;
+    padding-top: 2em;
+}
+
+hr { width: 80vw;}
+
+h1 { margin: 10px 0px 0px 0px;}
